@@ -1,0 +1,11 @@
+HeatDrop/
+│
+├── index.html
+├── style.css
+├── script.js
+└── images/
+     ├── nike1.jpg
+     ├── adidas1.jpg
+     ├── goldengoose1.jpg
+     ├── street1.jpg
+     └── street2.jpg
